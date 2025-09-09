@@ -157,3 +157,5 @@ A alta acurácia em todos os modelos (94.9% - 95.7%) indica:
 ### Conclusão
 
 O sistema demonstra capacidade técnica sólida para predição de falhas. A consistência entre diferentes algoritmos valida a qualidade do modelo de dados implementado. O próximo passo é a validação em ambiente de produção com métricas operacionais reais.
+
+## A documentação referente as entidades e seus relacionamentos esta junto ao repositório, por ser muito extença optamos por não escreve-la no readme (documentacao_entidades)
