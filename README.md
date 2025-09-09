@@ -103,6 +103,9 @@ A separação visual clara entre as classes valida a qualidade dos dados para tr
 
 ### 5. Performance dos Modelos de Machine Learning
 
+<img width="989" height="590" alt="Comparacao_Acuracia_modelos" src="https://github.com/user-attachments/assets/2d4e64b6-632e-41ac-8d07-4567075117aa" />
+
+
 Todos os algoritmos apresentaram performance elevada:
 
     Regressão Logística: 95.7%
